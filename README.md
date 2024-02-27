@@ -7,7 +7,7 @@ Welcome to our Shopping Website, a dynamic e-commerce platform created using Rea
 ## Main Features
 
 1. *Technology Stack:*
-   - Built with React.js for dynamic user interfaces and Tailwind CSS for a modern and efficient styling approach.
+   - Built with React.js for dynamic user interfaces ,Used Redux toolkit for Global State Management and Tailwind CSS for a modern and efficient styling approach.
 
 2. *Responsiveness:*
    - Ensures a user-friendly experience with a responsive design, adapting to different screen sizes and devices.
@@ -19,7 +19,7 @@ Welcome to our Shopping Website, a dynamic e-commerce platform created using Rea
    - Empowers users to easily find specific products with the integrated search bar. This feature enhances user navigation and ensures a quick and efficient shopping experience.
 
 5. *Dark Theme:*
-   - Introduces a dark theme option for users who prefer a different visual style. Enhance your shopping experience by toggling between light and dark themes based on your preference.
+   - Introduces a dark theme option for users who prefer a different visual style. Enhance your shopping experience by toggling between light and dark themes based on your preference. 
 
 ## Home Page
 
