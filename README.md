@@ -53,6 +53,6 @@ Explore our Help Page for detailed information on using the website, placing ord
 
 Explore the website in action by watching our [Shopping Website Video](https://drive.google.com/file/d/1VtHAjDxAsJnxynx3guyxQBS9cmZRL2RC/view?usp=sharing). Experience the features firsthand and enjoy your online shopping journey!
 
-Deploy Link : https://65acfb4d32bdb74e42486259--musical-nasturtium-20f0d1.netlify.app/
+Deploy Link : https://65ddb8969879f7b835354e04--keen-fudge-5fb88b.netlify.app/
 
 Feel free to contribute, report issues, or provide feedback to enhance our Shopping Website. Happy shopping!
